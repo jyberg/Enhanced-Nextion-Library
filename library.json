@@ -1,6 +1,6 @@
 {
   "name": "Enhanced-Nextion-Library",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/jyberg/Enhanced-Nextion-Library.git",
@@ -29,10 +29,6 @@
       "version": ">=1.0",
       "authors": "Arduino",
       "frameworks": "arduino"
-    },
-    {
-      "name": "EspSoftwareSerial",
-      "version": ">=5.0.4"
     },
     {
       "name": "SdFat",

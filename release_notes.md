@@ -1,6 +1,9 @@
 # Release Notes
 
 --------------------------------------------------------------------------------
+# Release v1.2.1
+- ExpSofwareSerial dependency removed.
+
 # Release v1.2.0
 - component refresh removed as it is now automatic in variable change
 - functions return values corrected

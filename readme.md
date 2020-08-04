@@ -1,6 +1,6 @@
 ﻿@mainpage Home Page
 
-# Enhanced Nextion Library with multi dispaly instance support
+# Enhanced Nextion Library with multi display instance support
 --------------------------------------------------------------------------------
 
 Jyrki Berg 2/8/2020 (https://github.com/jyberg) Version 1.2.0
